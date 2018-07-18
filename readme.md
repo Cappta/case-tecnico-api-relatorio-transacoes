@@ -56,7 +56,7 @@ Para que você se concentre apenas no código, disponibilizamos uma planilha com
 
 ## Como será a avaliação?
 
-O nosso intuito é olhar como é seu estilo de programação e quais decisões você toma ao resolver um problema. Portanto, coloque seu projeto em um repositório de versionamento público, tal como o GitHub, Bitbucket ou outro de sua preferência. Essa etapa é muito importante que consigamos clonar seu repositório para podermos avaliar o seu projeto. Após concluir o case, você deverá abrir um pull request para nós através do Github ou nos enviar por e-mail o link do repositório por e-mail para ***desenvolvimento@cappta.com.br*** ou ***fernando.seguim@cappta.com.br*** com o assunto "Case Técnico - Cappta - [Seu nome e sobrenome]"  para que possamos acessá-lo.
+O nosso intuito é olhar como é seu estilo de programação e quais decisões você toma ao resolver um problema. Portanto, coloque seu projeto em um repositório de versionamento público, tal como o GitHub, Bitbucket ou outro de sua preferência. Essa etapa é muito importante que consigamos clonar seu repositório para podermos avaliar o seu projeto. Após concluir o case, você deverá nos enviar o link do repositório por e-mail para ***desenvolvimento@cappta.com.br*** ou ***fernando.seguim@cappta.com.br*** com o assunto "Case Técnico - Cappta - [Seu nome e sobrenome]"  para que possamos acessá-lo.
 
 *IMPORTANTE!* Caso você opte enviar o projeto por anexo e-mail, dropbox, google drive ou outra forma que não seja plataforma de versionamento, tenha em mente que o projeto será desconsiderado automaticaticamente.
 
