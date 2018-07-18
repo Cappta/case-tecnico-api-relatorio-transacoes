@@ -52,7 +52,7 @@ O seu desafio será implementar uma API Restful que seja capaz gerar relatórios
 }
 ```
 
-Para que você se concentre apenas no código, disponibilizamos uma planilha com dados que você poderá importar para o SGBD de sua preferencia, aqui utilizamos o SQL Server! No entanto o use dessa base de dados é opcional. [Clique aqui](https://stonepagamentossa-my.sharepoint.com/:u:/g/personal/fernando_seguim_cappta_com_br/ERMTJWegQNRKnFwHZ0vfwVABoElRQdW0TO4Ffc58O_u0xA?e=N5Yobc) para baixá-la.
+Para que você se concentre apenas no código, disponibilizamos uma planilha com dados que você poderá importar para o SGBD de sua preferencia, aqui utilizamos o SQL Server! No entanto o use dessa base de dados é opcional. [Clique aqui](transactions.csv) para baixá-la.
 
 ## Como será a avaliação?
 
